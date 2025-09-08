@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-![snake animation](https://raw.githubusercontent.com/kzio-o/kzio-o/main/dist/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kzio-o/kzio-o/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kzio-o/kzio-o/main/dist/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/kzio-o/kzio-o/main/dist/github-snake.svg" />
+</picture>
 
 <!--
 **kzio-o/kzio-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
