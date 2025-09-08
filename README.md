@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake animation](https://raw.githubusercontent.com/kzio-o/kzio-o/main/dist/github-snake.svg)
+
 <!--
 **kzio-o/kzio-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
